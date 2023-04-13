@@ -1,0 +1,78 @@
+CVE-2023-27497 - Multiple vulnerabilities in SAP Diagnostics Agent
+CVE-2022-41272 - Improper access control in SAP NetWeaver AS Java
+CVE-2023-28765 - Information Disclosure vulnerability in SAP
+CVE-2023-27269 - Directory Traversal vulnerability in SAP NetWeaver
+CVE-2023-29186 - Directory Traversal vulnerability in SAP NetWeaver (
+CVE-2023-26458 - Information Disclosure vulnerability in SAP
+CVE-2023-29187 - DLL Hijacking vulnerability in SapSetup (Software
+CVE-2023-28761 - Missing Authentication check in SAP NetWeaver
+CVE-2023-24528 - Missing Authorization Check in SAP Fiori apps for
+CVE-2023-28763 - Denial of Service in SAP NetWeaver AS for ABAP
+CVE-2023-27499 - Cross-Site Scripting (XSS) vulnerability in SAP GUI
+CVE-2023-27897 - Code Injection vulnerability in SAP CRM
+CVE-2023-29189 - HTTP Verb Tampering vulnerability in SAP CRM
+CVE-2021-33683 - HTTP Request Smuggling in SAP Web Dispatcher
+CVE-2023-24527 - Improper Access Control in SAP NetWeaver AS Java
+CVE-2023-29185 - Denial of Service (DOS) in SAP NetWeaver AS for
+CVE-2023-29108 - IP filter vulnerability in ABAP Platform and SAP
+CVE-2023-29109 - Code Injection vulnerability in SAP Application
+CVE-2023-1903 - Missing Authorization check in SAP HCM Fiori App
+CVE-2023-29110 - Code Injection vulnerability in SAP Application
+CVE-2023-29112 - Code Injection vulnerability in SAP Application
+CVE-2023-29111 - Information Disclosure vulnerability in SAP
+CVE-2023-25616 - Code Injection vulnerability in SAP Business
+CVE-2023-23857 - Improper Access Control in SAP NetWeaver AS for
+CVE-2022-41272 - Improper access control in SAP NetWeaver AS Java
+CVE-2023-27269 - Directory Traversal vulnerability in SAP NetWeaver
+CVE-2023-27500 - Directory Traversal vulnerability in SAP NetWeaver
+CVE-2023-25617 - OS command execution vulnerability in SAP
+CVE-2023-27893 - Arbitrary Code Execution in SAP Solution Manager
+CVE-2023-27501 - Directory Traversal vulnerability in SAP NetWeaver
+CVE-2023-26459 - Multiple vulnerabilities in SAP NetWeaver AS for
+CVE-2023-27498 - Memory Corruption vulnerability in SAPOSCOL
+CVE-2023-26461 - XXE vulnerability in SAP NetWeaver (SAP Enterprise
+CVE-2023-25615 - SQL Injection vulnerability in ABAP Platform
+CVE-2023-27270 - Denial of Service (DoS) in SAP NetWeaver AS for
+CVE-2023-26457 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-27895 - Information Disclosure vulnerability in SAP
+CVE-2023-0021 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-25614 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-27268 - Missing Authentication and Authorization check in
+CVE-2023-26460 - Missing Authentication check in SAP NetWeaver AS
+CVE-2023-24526 - Improper Access Control in SAP NetWeaver AS
+CVE-2023-24523 - Privilege Escalation vulnerability in SAP Start
+CVE-2022-41264 - Code Injection vulnerability in SAP BASIS
+CVE-2023-0020 - Information disclosure vulnerability in SAP
+CVE-2022-41268 - Privilege escalation vulnerability in SAP Business
+CVE-2023-24530 - Unrestricted Upload of File in SAP BusinessObjects
+CVE-2023-0024 - Cross Site Scripting in SAP Solution Manager (BSP
+CVE-2023-0025 - Cross Site Scripting in SAP Solution Manager (BSP
+CVE-2023-23855 - URL Redirection vulnerability in SAP Solution
+CVE-2023-0019 - Missing Authorization check in GRC function
+CVE-2023-24528 - Missing Authorization Check in SAP Fiori apps for
+CVE-2023-24524 - Missing Authorization check in SAP S/4 HANA Map
+CVE-2023-23852 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-23853 - URL Redirection vulnerability in SAP NetWeaver
+CVE-2023-24529 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-23858 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2022-41262 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-25614 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-24521 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-24522 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-0013 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-23851 - Unrestricted File Upload in SAP Business Planning
+CVE-2023-23856 - Cross-Site Scripting (XSS) vulnerability in Web
+CVE-2023-24525 - Cross-Site Scripting (XSS) vulnerability in SAP CRM
+CVE-2023-23854 - Missing Authorization check in SAP NetWeaver AS
+CVE-2023-0016 - SQL Injection vulnerability in SAP Business Planning
+CVE-2023-0022 - Code Injection vulnerability in SAP BusinessObjects
+CVE-2022-41272 - Improper access control in SAP NetWeaver Process
+CVE-2022-41203 - Insecure Deserialization of Untrusted Data in SAP
+CVE-2022-41271 - Improper access control in SAP NetWeaver Process
+CVE-2023-0017 - Improper access control in SAP NetWeaver AS for
+CVE-2023-0014 - Capture-replay vulnerability in SAP NetWeaver AS for
+CVE-2023-0012 - Local Privilege Escalation in SAP Host Agent
+CVE-2023-0013 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-0018 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-0015 - Cross-Site Scripting (XSS) vulnerability in SAP
+CVE-2023-0023 - Information Disclosure in SAP Bank Account
