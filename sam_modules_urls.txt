@@ -1,0 +1,58 @@
+SAP Analytics Cloud: /sap/bc/sac/
+SAP Ariba: /sap/bc/ariba/
+SAP Asset Intelligence Network: /sap/bc/ain/
+SAP Business ByDesign: /sap/byd/
+SAP Business One: /b1s/v1/
+SAP Cloud for Customer: /sap/c4c/
+SAP Commerce Cloud: /sap/cmc/
+SAP Concur: /sap/bc/bsp/concur/
+SAP Digital Manufacturing Cloud: /sap/bc/dmc/
+SAP Document Center: /sap/opu/odata/sap/ZDC_ODATA_SRV/
+SAP Enterprise Portal: /irj/
+SAP ERP: /sap/bc/gui/sap/its/
+SAP Fieldglass: /sap/bc/fg/
+SAP Fiori Launchpad: /sap/bc/ui5_ui5/ui2/ushell/shells/abap/
+SAP Global Trade Services: /sap/bc/gui/sap/its/its/webgui/
+SAP HANA Cloud Platform: /sap/hana/
+SAP HANA XS Advanced: /sap/hana/xs/
+SAP HANA XS Classic: /sap/hana/xs/
+SAP HCM: /sap/bc/gui/sap/its/webgui/?~TRANSACTION=
+SAP Integrated Business Planning: /sap/bc/webdynpro/sap/ags_smc_ui_start_page
+SAP Integrated Report: /sap/bw/ZCRM_REPORTS
+SAP Intelligent Robotic Process Automation: /sap/bc/ui5_ui5/sap/integration_desktop/
+SAP Jam Collaboration: /sap/bc/webcollaboration/
+SAP Leonardo IoT: /sap/iot/
+SAP Logistics Business Network: /sap/opu/odata/sap/ZCNTR_LOG_NW_SRV/
+SAP Lumira: /sap/bc/lumira/
+SAP Master Data Governance: /sap/bc/webdynpro/sap/ags_cud
+SAP MaxAttention: /sap/bc/maxattention/
+SAP Mobile Secure: /sap/bc/msec/
+SAP NetWeaver: /sap/bc/gui/sap/its/
+SAP One Domain Model: /sap/opu/odata/sap/API_CDM_ODATA_SRV/
+SAP Plant Connectivity: /sap/bc/pc/
+SAP Predictive Analytics: /sap/bc/pa/
+SAP Process Orchestration: /sap/bc/webdynpro/sap/WDR_TEST_FPM_OIF
+SAP Product Lifecycle Management: /sap/bc/webdynpro/sap/ags_plm_ui_start_page
+SAP Project and Portfolio Management: /sap/bc/webdynpro/sap/ags_ppm_ui_start_page
+SAP Quality Management: /sap/bc/gui/sap/its/webgui/?~TRANSACTION=
+SAP S/4HANA: /sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html
+SAP Sales and Operations Planning: /sap/bc/webdynpro/sap/ags_sop_ui_start_page
+SAP Solution Manager: /solman_workcenter
+SAP Spend Performance Management: /sap/bc/spm/
+SAP SuccessFactors: /sap/bc/sf/
+SAP Supplier Relationship Management: /sap/bc/gui/sap/its/webgui/?~TRANSACTION=
+SAP Supply Chain Management: /sap/bc/webdynpro/sap/ags_scm_ui_start_page
+SAP Transportation Management: /sap/bc/webdynpro/sap/
+SAP Analytics Cloud: /sap/bc/ui5_ui5/ui2/ushell/shells/abap/SimpleTable.qunit.html
+SAP BusinessObjects Business Intelligence platform: /BOE/BI
+SAP Lumira: /sap/bc/lumira
+SAP Predictive Analytics: /sap/bc/pa
+SAP Crystal Reports: /sap/bc/cr
+SAP BusinessObjects Analysis, edition for Microsoft Office: /sap/bw/ina/GetINA.htm
+SAP Analytics Cloud: https://analytics.cloud.sap/
+SAP Lumira Designer: /sap/bi/launchpad/analytics (SAP BusinessObjects Launchpad)
+SAP Lumira Discovery: /sap/bi/launchpad/analytics2 (SAP BusinessObjects Launchpad)
+SAP BusinessObjects Web Intelligence: /BOE/BI (SAP BusinessObjects Launchpad)
+SAP Crystal Reports: /BOE/BI (SAP BusinessObjects Launchpad)
+SAP Analysis for Office: /sap/bi/launchpad/analytics (SAP BusinessObjects Launchpad)
+SAP Predictive Analytics: /sap/bi/launchpad/analytics (SAP BusinessObjects Launchpad)
